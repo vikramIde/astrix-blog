@@ -1,0 +1,13 @@
+{
+    "name": "@vikramide/astrix-blog",
+    "version": "1.0.0",
+    "description": "Endpoint for astrix-blog",
+    "license": "MIT",
+    "repository": "vikramIde/astrix-blog",
+    "main": "index.js",
+    "keywords": [
+      "npm",
+      "package",
+      "vikramIde"
+    ]
+  }
